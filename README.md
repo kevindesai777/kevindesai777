@@ -9,5 +9,3 @@ I write about Android, Compose, and Multiplatform at [androidadventures.dev](htt
 Open to senior and staff mobile roles.
 
 📫 kevindesai777@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevindesai777&show_icons=true)
