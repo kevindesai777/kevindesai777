@@ -1,16 +1,13 @@
-## Hi there 👋
+# Kevin Desai
 
-<!--
-**kevindesai777/kevindesai777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile engineer, about nine years of it. Mostly Kotlin, Compose, and Kotlin Multiplatform.
 
-Here are some ideas to get you started:
+I work on large mobile codebases, developer tooling, and apps that talk to hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I write about Android, Compose, and Multiplatform at [androidadventures.dev](https://androidadventures.dev).
+
+Open to senior and staff mobile roles.
+
+📫 kevindesai777@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kevindesai777&show_icons=true)
